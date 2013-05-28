@@ -21,8 +21,8 @@ h1,h2,h3,h4,h5,h6 {
     box-shadow: 0 -3px 30px -5px #000 inset;
 }
 article, footer {
-    min-width: 400px;
-    max-width: 800px;
+    min-width: 300px;
+    max-width: 750px;
     margin: 0 auto;
     padding: 20px;
 }
@@ -33,9 +33,15 @@ article, footer {
 footer section {
     float: right;
     margin-right: 5px;
-    width: 390px;
+    width: 365px;
     font-size: 16px;
 }
 footer a, footer h2 {
     color: #FFF;
+}
+
+@media only screen and (max-width: 700px) {
+    footer section {
+        float: none;
+    }
 }
