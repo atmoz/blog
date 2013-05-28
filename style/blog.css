@@ -15,13 +15,13 @@ h1,h2,h3,h4,h5,h6 {
     color: #000055;
 }
 #content {
+    min-width: 300px;
     background: #FFF;
     background-image: url(textured_paper.png);
     color: #000;
     box-shadow: 0 -3px 30px -5px #000 inset;
 }
 article, footer {
-    min-width: 300px;
     max-width: 750px;
     margin: 0 auto;
     padding: 20px;
