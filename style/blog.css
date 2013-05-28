@@ -16,7 +16,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 #content {
     min-width: 300px;
-    background: #FFF;
+    background: #DDD;
     background-image: url(textured_paper.png);
     color: #000;
     box-shadow: 0 -3px 30px -5px #000 inset;
