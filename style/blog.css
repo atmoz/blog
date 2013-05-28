@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #000011;
+    background-image: url(noisy_net.png);
+    color: #FFF;
+    font-family: 'Ubuntu Mono', monospace;
+    line-height: 1.5;
+    font-size: 18px;
+}
+h1 {
+    font-size: 42px;
+}
+h1,h2,h3,h4,h5,h6 {
+    color: #000055;
+}
+#content {
+    background: #FFF;
+    background-image: url(textured_paper.png);
+    color: #000;
+    box-shadow: 0 -3px 30px -5px #000 inset;
+}
+article, footer {
+    min-width: 400px;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+#signature {
+    padding-top: 20px;
+    text-align: right;
+}
+footer section {
+    float: right;
+    margin-right: 5px;
+    width: 390px;
+    font-size: 16px;
+}
+footer a, footer h2 {
+    color: #FFF;
+}
