@@ -47,5 +47,6 @@ footer a, footer h2 {
 
     footer section {
         float: none;
+        width: auto;
     }
 }
