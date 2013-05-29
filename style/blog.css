@@ -19,7 +19,7 @@ h1,h2,h3,h4,h5,h6 {
     background: #DDD;
     background-image: url(textured_paper.jpg);
     color: #000;
-    box-shadow: 0 -3px 30px -5px #000 inset;
+    box-shadow: inset 1px -8px 15px -6px;
 }
 article, footer {
     max-width: 750px;
