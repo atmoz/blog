@@ -1,7 +1,0 @@
-#!/bin/bash
-
-# update files
-git checkout -f
-
-# generate web site
-rigid /home/atmoz/blog.atmoz.net/blog /home/atmoz/blog.atmoz.net/public
