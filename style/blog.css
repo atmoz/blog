@@ -46,8 +46,7 @@ footer a, footer h2 {
 }
 
 code, code pre {
-    font-size: 16px;
-    font-weight: bold;
+    font-family: 'Ubuntu Mono', monospace;
     color: #440000;
 }
 
@@ -55,6 +54,7 @@ code pre {
     margin-left: 25px;
     padding-left: 10px;
     border-left: 4px solid #bbb;
+    overflow: auto;
 }
 
 @media only screen and (max-width: 700px) {
