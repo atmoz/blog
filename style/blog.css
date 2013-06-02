@@ -1,43 +1,60 @@
 body {
     margin: 0;
     padding: 0;
-    background: #000011;
-    background-image: url(noisy_net.png);
+    background: #000011 url(noisy_net.png);
     color: #FFF;
     font-family: 'Ubuntu Mono', monospace;
     line-height: 1.5;
-    font-size: 18px;
+    font-size: 20px;
 }
+
 h1 {
     font-size: 42px;
 }
+
 h1,h2,h3,h4,h5,h6 {
     color: #000055;
 }
+
 #content {
     min-width: 300px;
-    background: #DDD;
-    background-image: url(textured_paper.jpg);
+    background: #DDD url(textured_paper.jpg);
     color: #000;
     box-shadow: inset 1px -8px 15px -6px;
 }
+
 article, footer {
     max-width: 750px;
     margin: 0 auto;
     padding: 20px;
 }
+
 #signature {
     padding: 30px 0;
     text-align: right;
 }
+
 footer section {
     float: right;
     margin-right: 5px;
     width: 365px;
     font-size: 16px;
 }
+
 footer a, footer h2 {
     color: #FFF;
+}
+
+code, code pre {
+    font-size: 16px;
+    font-weight: bold;
+    color: #440000;
+}
+
+code pre {
+    margin-left: 25px;
+    padding-left: 10px;
+    border-left: 4px solid #bbb;
 }
 
 @media only screen and (max-width: 700px) {
