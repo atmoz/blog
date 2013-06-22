@@ -10,8 +10,8 @@ way myself when someone starts talking about something odd and far-fetched.
 
 ## What got me started
 
-I was browsing youtube someday and came over a Google Tech Talk video about
-meditation. "What the ...?" was my fist response, wondering why Google would
+I was browsing youtube someday and came over a [Google Tech Talk video about
+meditation](https://www.youtube.com/watch?v=Ky7vMFB4iAs). "What the ...?" was my fist response, wondering why Google would
 have a video about meditation. 
 
 Well, they must have had a good reason, so I watched it.
@@ -49,7 +49,7 @@ that can't be explained by logic.
 
 That's why I'm glad I found Acem, a Norwegian organization started in 1966
 offering meditation courses where I live (Bergen, Norway). Some points taken 
-from their webpage:
+from their [webpage](http://acem.com):
 
 * Developed by medical doctors and psychologists
 * No mysticism, neutral technique
