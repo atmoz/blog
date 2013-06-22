@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-    font-size: 52px;
+    font-size: 230%;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -20,6 +20,7 @@ h1,h2,h3,h4,h5,h6 {
     background: #DDD url(textured_paper.jpg);
     color: #123;
     box-shadow: inset 1px -8px 15px -6px;
+    overflow: auto;
 }
 
 article, footer {
@@ -56,6 +57,10 @@ code pre {
 }
 
 @media only screen and (max-width: 767px) {
+    body {
+        font-size: 18px;
+    }
+
     #content {
         box-shadow: none;
     }
