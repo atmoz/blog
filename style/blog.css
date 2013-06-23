@@ -20,13 +20,13 @@ h1,h2,h3,h4,h5,h6 {
     background: #DDD url(textured_paper.jpg);
     color: #123;
     box-shadow: inset 1px -8px 15px -6px;
-    overflow: auto;
 }
 
 article, footer {
     max-width: 728px;
     margin: 0 auto;
     padding: 20px;
+    overflow: auto;
 }
 
 #signature {
