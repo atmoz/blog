@@ -24,7 +24,7 @@ the day after. But like a dog unintelligently wrapping himself in his own leash
 while sniffing around a pole, we continue drinking too much the next weekend.
 
 Not everyone drinks alcohol to get drunk, fortunately. I too can enjoy a
-glass of wine the same way I enjoy a cup of tea. I'm not criticising alcohol on
+glass of wine the same way I enjoy a cup of tea. I'm not criticizing alcohol on
 it's own, it has it's place. I'm focused on the bad habits surrounding alcohol.
 
 ## The tipping point
@@ -62,7 +62,7 @@ sit in a couch and never let your body language express any form of human
 emotions. No problem. Just drink some alcohol and you get the license to party!
 
 This must be the number one argument for drinking alcohol. It is fun, it makes
-people talk and interact more. Take a drink – loosen up, man! All your worries
+people talk and interact more. Take a drink -- loosen up, man! All your worries
 will drown in the bottle. Tempting as it is, the effects are only temporary.
 Your license to party gets revoked the next day, and you're back to square
 one.
@@ -102,7 +102,7 @@ vomiting and crying at the same time. You get the idea.
 Another unsettling thing I see is peoples personal problems getting expressed
 in different ways when affected with alcohol. All the problems they undermine
 in daily life explode to the surface. Worst timing ever. It
-reinforces your "need" for drinking alcohol – creating a kind of space for your
+reinforces your "need" for drinking alcohol -- creating a kind of space for your
 feelings to run free, but without actually dealing with them properly.
 
 You lose control and can get yourself in bad situations, like I did when on
@@ -151,8 +151,8 @@ distracting myself from the pain and anxiety, I saw the negative effects it had
 on my physical and mental health. It simply was not worth it.
 
 I made a decision, and stopped. I did not know for how long, it just had to be
-long enough for my bad habits to be replaced. I wanted to remove my dependences
-on alcohol.
+long enough for my bad habits to be replaced. I wanted to remove my
+dependencies on alcohol.
 
 I'm happy to say my experiment has been a success.
 
@@ -162,4 +162,4 @@ I'm happy to say my experiment has been a success.
 * Alcohol inhibits your personal development in social settings
 * Too much alcohol makes you a zombie
 
-I don't want to be a zombie – do you?
+I don't want to be a zombie -- do you?
