@@ -50,13 +50,13 @@ footer h2 {
 }
 
 code, code pre {
+    background: #eee;
     font-family: 'Ubuntu Mono', monospace;
     color: #440000;
 }
 
 code pre {
     padding: 10px 15px;
-    background: #eee;
     overflow: auto;
     font-size: 18px;
 }
