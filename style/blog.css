@@ -3,8 +3,9 @@ body {
     padding: 0;
     background: #101725 url(noisy_net.png);
     color: #def;
-    font-family: 'Ubuntu', sans-serif;
-    font-size: 22px;
+    font-family: 'Duru Sans', sans-serif;
+    font-size: 18px;
+    line-height: 28px;
 }
 
 h1 {
