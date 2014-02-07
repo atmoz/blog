@@ -1,11 +1,11 @@
 body {
     margin: 0;
     padding: 0;
-    background: #101725 url(noisy_net.png);
-    color: #def;
+    background: #fafafa;
     font-family: 'Duru Sans', sans-serif;
     font-size: 18px;
     line-height: 28px;
+    color: #123;
 }
 
 h1 {
@@ -22,8 +22,6 @@ a, a:visited {
 
 #content {
     min-width: 320px;
-    background: #DDD url(textured_paper.jpg);
-    color: #123;
 }
 
 article, footer {
@@ -38,16 +36,14 @@ article, footer {
     text-align: right;
 }
 
+footer {
+    background: #FFEFD5;
+}
+
 footer section {
     float: right;
     width: 364px;
     font-size: 16px;
-}
-
-footer a,
-footer a:visited,
-footer h2 {
-    color: #def;
 }
 
 code, code pre {
@@ -68,7 +64,7 @@ code pre {
 
 @media only screen and (max-width: 767px) {
     body {
-        font-size: 18px;
+        font-size: 16px;
     }
 
     footer section {
